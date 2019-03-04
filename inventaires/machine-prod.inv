@@ -1,0 +1,7 @@
+[Debian9Prod]
+172.16.206.178 ansible_user=root
+
+[Debian9Prod:vars]
+mysql_user=eleve
+mysql_password=btsinfo
+mysql_db=bdeleve
